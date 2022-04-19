@@ -10,7 +10,7 @@
 - 🚀 I am currently working as a work-study student at Finalgo, a Lyon-based company that supports managers and brokers in the search for financing. I work on the front-end part with the Angular Framework.  
   
 
-- 💪 I work in my free time on a project of turnkey sites for Amap AURA with @liserochat   
+- 💪 I work in my free time on a project of turnkey sites for Amap AURA with <a href="https://github.com/LiseRochat">@liserochat</a>
   
 
 <br/>  
