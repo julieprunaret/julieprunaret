@@ -65,7 +65,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/julieprunaret" target="_blank">
