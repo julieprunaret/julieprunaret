@@ -1,21 +1,6 @@
 ### Hello there !👋  
   
 
- My name is Julie, a french developer apprentice 🌱 and webdesigner 🌳 living in Lyon.   
-  
-
-- 🌱 I’m at the school Webforce3 where i'm currently learning fullstack technologies : JS (Vue JS framework), PHP (Symfony framework), SQL.   
-  
-
-- 🚀 I am currently working as a work-study student at Arneo, a Lyon-based company that creates websites green-friendly for compagnies. I work on the front-end part.  
-  
-
-- 💪 I work in my free time on a project of turnkey sites for Amap AURA with <a href="https://github.com/LiseRochat">@liserochat</a>
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
