@@ -19,8 +19,8 @@ I'm looking for a job :)
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://github.com/julieprunaret/julieprunaret/assets/87066549/994bad0e-a376-4eda-a2a6-ba4bfd9eb7b0" alt="NextJS" width="40" height="40"/>
 </div>
-
 </td><td valign="top" width="33%">
 
 
