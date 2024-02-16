@@ -6,7 +6,6 @@ I'm looking for a job as a front-end developer :)
 
 
 
-
 <table><tr><td valign="top" width="33%">
 
 
