@@ -1,11 +1,7 @@
 ### Hello there 👋  
 
 
-I'm looking for a job as a front-end developer :)
-
-
-
-
+I'm a front-end developer & UI-UX designer :)
 
 
 
