@@ -1,7 +1,7 @@
 ### Hello there 👋  
 
 
-I'm a React front-end developer & UI-UX designer :)
+I'm a Product owner and React front-end developer & UI-UX designer :)
 
 
 ## My Skill Set
